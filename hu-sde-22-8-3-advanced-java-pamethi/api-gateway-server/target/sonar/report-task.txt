@@ -1,0 +1,6 @@
+projectKey=com.hashedin:api-gateway-server
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=com.hashedin%3Aapi-gateway-server
+ceTaskId=AYNpPcTw_Nx58MJQZ8dg
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNpPcTw_Nx58MJQZ8dg

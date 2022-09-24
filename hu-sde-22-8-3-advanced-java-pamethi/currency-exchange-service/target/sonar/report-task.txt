@@ -1,0 +1,6 @@
+projectKey=com.hashedin:currency-exchange-service
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=com.hashedin%3Acurrency-exchange-service
+ceTaskId=AYNpOnCg_Nx58MJQZ8dI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNpOnCg_Nx58MJQZ8dI
